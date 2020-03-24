@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://confluence.qingtui.im/download/attachments/76973353/KBiPhone_Developer_1.0.6_202003241344.ipa?version=1&modificationDate=1585028781812&api=v2</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/937447974/banli-iphone/master/AppIcon60x60%403x.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/937447974/banli-iphone/master/AppIcon60x60%402x.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.cisdi.banli.develop</string>
+                <key>bundle-version</key>
+                <string>1.0.6</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>板栗看板</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
