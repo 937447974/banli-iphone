@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://kanban.oss-cn-hangzhou.aliyuncs.com/5e7b7b2a2ea10c173949aeee.png</string>
+                    <string>https://raw.githubusercontent.com/937447974/banli-iphone/master/AppIcon60x60%403x.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://kanban.oss-cn-hangzhou.aliyuncs.com/5e7b7b272ea10c173949aeec.png</string>
+                    <string>https://raw.githubusercontent.com/937447974/banli-iphone/master/AppIcon60x60%402x.png</string>
                 </dict>
             </array>
             <key>metadata</key>
